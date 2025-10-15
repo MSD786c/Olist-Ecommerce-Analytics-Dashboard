@@ -86,5 +86,3 @@ Performed in **Google Colab** using **Pandas**:
 - Gained hands-on experience in **retail data analytics** and performance optimization.
 
 ---
-
-## 📂 Repository Structure
