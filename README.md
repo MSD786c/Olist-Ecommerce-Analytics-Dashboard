@@ -42,7 +42,7 @@ Performed in **Google Colab** using **Pandas**:
 ## 📈 Tableau Dashboard
 
 🔗 **Live Dashboard on Tableau Public:**  
-[👉 View Dashboard]([https://public.tableau.com/app/profile/suhayl.dastager](https://public.tableau.com/views/Book1_17604481631990/OlistE-CommercePerformance20162018?:language=en-GB&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link)) 
+[👉 View Dashboard](https://public.tableau.com/views/Book1_17604481631990/OlistE-CommercePerformance20162018?:language=en-GB&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link) 
 
 **Main Visuals:**
 1. **KPI Row:** GMV, Orders, AOV, Delivery Days, Late Delivery Rate, Review Score  
