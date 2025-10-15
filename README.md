@@ -75,8 +75,7 @@ Performed in **Google Colab** using **Pandas**:
 
 ## Dashboard Preview
 
-![Olist Dashboard Main](https://public.tableau.com/app/profile/suhayl.dastager/viz/Book1_17604481631990/OlistE-CommercePerformance20162018?publish=yes)
-![Olist KPIs]([./screenshots/kpis_view.png](https://public.tableau.com/app/profile/suhayl.dastager/viz/Book1_17604481631990/OlistE-CommercePerformance20162018?publish=yes))
+![Olist Dashboard Main](./dashboard.png)
 
 ---
 
